@@ -1,0 +1,29 @@
+# Project : Rock, Paper, Scissors
+
+## Motivation
+
+- To develop Rock, Paper, Scissors game against an automated opponent
+
+## Table of Contents
+
+1. [About the Project](#about-the-project)
+2. [Screenshots](#screenshots)
+3. [URL](#url)
+4. [Author](#author)
+
+# About the Project
+
+- The application is developed using Javascript concepts like function(), conditional statements and Math.floor() methods.
+
+# Screenshots
+
+![UserPop](image.png)
+![scoreboard](image-1.png)
+
+# URL
+
+# Author
+
+Sangeetha Gnanavel a Full Stack Developer interested in continous learning.
+
+**[Back to top](#table-of-contents)**
