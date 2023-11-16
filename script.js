@@ -40,6 +40,7 @@ function playTheGame() {
       tie = tie + 1;
     }
   }
+  displayScore();
   continueGame();
 }
 function displayScore() {
